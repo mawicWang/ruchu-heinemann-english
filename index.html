@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>在线音频播放</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>音频播放器</h1>
+        <input type="text" id="search-input" placeholder="搜索音频...">
+    </header>
+
+    <main id="file-list">
+        <!-- File tree will be rendered here -->
+    </main>
+
+    <footer id="player-container">
+        <div id="current-track-info">
+            <span id="track-name">未播放</span>
+        </div>
+        <audio id="audio-player" controls>
+            您的浏览器不支持 audio 元素。
+        </audio>
+    </footer>
+
+    <script src="app.js"></script>
+</body>
+</html>
