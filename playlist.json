@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "name": "G1 音频",
+    "type": "directory",
+    "path": "./G1%20%E9%9F%B3%E9%A2%91",
+    "children": []
+  },
+  {
+    "name": "G2 音频",
+    "type": "directory",
+    "path": "./G2%20%E9%9F%B3%E9%A2%91",
+    "children": []
+  },
+  {
+    "name": "GK 音频",
+    "type": "directory",
+    "path": "./GK%20%E9%9F%B3%E9%A2%91",
+    "children": []
+  },
+  {
+    "name": "测试",
+    "type": "directory",
+    "path": "./%E6%B5%8B%E8%AF%95",
+    "children": []
+  }
+]
