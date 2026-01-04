@@ -1,11 +1,5 @@
 [
   {
-    "name": "G1",
-    "type": "directory",
-    "path": "./G1",
-    "children": []
-  },
-  {
     "name": "G1 音频",
     "type": "directory",
     "path": "./G1%20%E9%9F%B3%E9%A2%91",
@@ -521,12 +515,6 @@
         "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%2099%20Level%20H%20All%20about%20Chimps.MP3"
       }
     ]
-  },
-  {
-    "name": "G2",
-    "type": "directory",
-    "path": "./G2",
-    "children": []
   },
   {
     "name": "G2 音频",
@@ -1089,12 +1077,6 @@
         "path": "./G2%20%E9%9F%B3%E9%A2%91/book34-29%20The%20trip.mp3"
       }
     ]
-  },
-  {
-    "name": "GK",
-    "type": "directory",
-    "path": "./GK",
-    "children": []
   },
   {
     "name": "GK 音频",
