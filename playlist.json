@@ -1,0 +1,37 @@
+[
+  {
+    "name": "G1",
+    "type": "directory",
+    "path": "./G1",
+    "children": []
+  },
+  {
+    "name": "G2",
+    "type": "directory",
+    "path": "./G2",
+    "children": []
+  },
+  {
+    "name": "GK",
+    "type": "directory",
+    "path": "./GK",
+    "children": []
+  },
+  {
+    "name": "测试",
+    "type": "directory",
+    "path": "./%E6%B5%8B%E8%AF%95",
+    "children": [
+      {
+        "name": "Book 2 Level A Frog food.MP3",
+        "type": "file",
+        "path": "./%E6%B5%8B%E8%AF%95/Book%202%20Level%20A%20Frog%20food.MP3"
+      },
+      {
+        "name": "Book 95 Level H The Gecko That came to school.MP3",
+        "type": "file",
+        "path": "./%E6%B5%8B%E8%AF%95/Book%2095%20Level%20H%20The%20Gecko%20That%20came%20to%20school.MP3"
+      }
+    ]
+  }
+]
