@@ -6,16 +6,1412 @@
     "children": []
   },
   {
+    "name": "G1 音频",
+    "type": "directory",
+    "path": "./G1%20%E9%9F%B3%E9%A2%91",
+    "children": [
+      {
+        "name": "Book 10 Level A Monkey.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%2010%20Level%20A%20Monkey.MP3"
+      },
+      {
+        "name": "Book 100 Level H A Trip tu the Laundromutt.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%20100%20Level%20H%20A%20Trip%20tu%20the%20Laundromutt.MP3"
+      },
+      {
+        "name": "Book 101 Level I Fun for Hugs.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%20101%20Level%20I%20Fun%20for%20Hugs.MP3"
+      },
+      {
+        "name": "Book 102 Level I Bear's Birthday.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%20102%20Level%20I%20Bear%27s%20Birthday.MP3"
+      },
+      {
+        "name": "Book 103 Level I Stone Soup.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%20103%20Level%20I%20Stone%20Soup.MP3"
+      },
+      {
+        "name": "Book 104 Level I The Missing Cat.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%20104%20Level%20I%20The%20Missing%20Cat.MP3"
+      },
+      {
+        "name": "Book 105 Level I All About Honeybees.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%20105%20Level%20I%20All%20About%20Honeybees.MP3"
+      },
+      {
+        "name": "Book 106 Level J Too Tall.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%20106%20Level%20J%20Too%20Tall.MP3"
+      },
+      {
+        "name": "Book 107 Level J All About Dolphins.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%20107%20Level%20J%20All%20About%20Dolphins.MP3"
+      },
+      {
+        "name": "Book 108 Level J The Lion and the Mouse.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%20108%20Level%20J%20The%20Lion%20and%20the%20Mouse.MP3"
+      },
+      {
+        "name": "Book 109 Level J The Three Billy Goats.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%20109%20Level%20J%20The%20Three%20Billy%20Goats.MP3"
+      },
+      {
+        "name": "Book 11 Level A Oh No!.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%2011%20Level%20A%20Oh%20No%21.MP3"
+      },
+      {
+        "name": "Book 12 Level A Getting Dressed.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%2012%20Level%20A%20Getting%20Dressed.MP3"
+      },
+      {
+        "name": "Book 13 Level A Family Pictures.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%2013%20Level%20A%20Family%20Pictures.MP3"
+      },
+      {
+        "name": "Book 14 Level A My Bath.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%2014%20Level%20A%20My%20Bath.MP3"
+      },
+      {
+        "name": "Book 16 Level A The Farmers.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%2016%20Level%20A%20The%20Farmers.MP3"
+      },
+      {
+        "name": "Book 17 Level A My Puppy.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%2017%20Level%20A%20My%20Puppy.MP3"
+      },
+      {
+        "name": "Book 18 Level A My New School.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%2018%20Level%20A%20My%20New%20School.MP3"
+      },
+      {
+        "name": "Book 19 Level A Traffic.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%2019%20Level%20A%20Traffic.MP3"
+      },
+      {
+        "name": "Book 2 Level A Frog food.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%202%20Level%20A%20Frog%20food.MP3"
+      },
+      {
+        "name": "Book 20 Level A Jump.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%2020%20Level%20A%20Jump.MP3"
+      },
+      {
+        "name": "Book 21 Level A Swim.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%2021%20Level%20A%20Swim.MP3"
+      },
+      {
+        "name": "Book 22 Level A The Sky.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%2022%20Level%20A%20The%20Sky.MP3"
+      },
+      {
+        "name": "Book 23 Level A The Picnic.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%2023%20Level%20A%20The%20Picnic.MP3"
+      },
+      {
+        "name": "Book 24 Level A Look!.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%2024%20Level%20A%20Look%21.MP3"
+      },
+      {
+        "name": "Book 25 Level B Sam and Papa.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%2025%20Level%20B%20Sam%20and%20Papa.MP3"
+      },
+      {
+        "name": "Book 26 Level B Too Much Stuff.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%2026%20Level%20B%20Too%20Much%20Stuff.MP3"
+      },
+      {
+        "name": "Book 27 Level B Orson's Tummy Ache.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%2027%20Level%20B%20Orson%27s%20Tummy%20Ache.MP3"
+      },
+      {
+        "name": "Book 29 Level B Mom and Kayla.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%2029%20Level%20B%20Mom%20and%20Kayla.MP3"
+      },
+      {
+        "name": "Book 3 Level A The New Puppy.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%203%20Level%20A%20The%20New%20Puppy.MP3"
+      },
+      {
+        "name": "Book 30 Level B Our Garden.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%2030%20Level%20B%20Our%20Garden.MP3"
+      },
+      {
+        "name": "Book 31 Level B Boots and Shoes.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%2031%20Level%20B%20Boots%20and%20Shoes.MP3"
+      },
+      {
+        "name": "Book 32 Level B Snap!.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%2032%20Level%20B%20Snap%21.MP3"
+      },
+      {
+        "name": "Book 33 Level B Apple Pie.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%2033%20Level%20B%20Apple%20Pie.MP3"
+      },
+      {
+        "name": "Book 35 Level B My friend.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%2035%20Level%20B%20My%20friend.MP3"
+      },
+      {
+        "name": "Book 36 Level B Trucks.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%2036%20Level%20B%20Trucks.MP3"
+      },
+      {
+        "name": "Book 37 Level C Ant Can't.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%2037%20Level%20C%20Ant%20Can%27t.MP3"
+      },
+      {
+        "name": "Book 38 Level C Eggs.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%2038%20Level%20C%20Eggs.MP3"
+      },
+      {
+        "name": "Book 39 Level C Where Things Grow.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%2039%20Level%20C%20Where%20Things%20Grow.MP3"
+      },
+      {
+        "name": "Book 4 Level A Friends.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%204%20Level%20A%20Friends.MP3"
+      },
+      {
+        "name": "Book 40 Level C A Day at the Park.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%2040%20Level%20C%20A%20Day%20at%20the%20Park.MP3"
+      },
+      {
+        "name": "Book 41 Level C Looking for Taco.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%2041%20Level%20C%20Looking%20for%20Taco.MP3"
+      },
+      {
+        "name": "Book 42 Level C Meli on the Stairs.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%2042%20Level%20C%20Meli%20on%20the%20Stairs.MP3"
+      },
+      {
+        "name": "Book 43 Level C Homes.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%2043%20Level%20C%20Homes.MP3"
+      },
+      {
+        "name": "Book 45 Level C The Puppets.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%2045%20Level%20C%20The%20Puppets.MP3"
+      },
+      {
+        "name": "Book 46 Level C Play Ball!.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%2046%20Level%20C%20Play%20Ball%21.MP3"
+      },
+      {
+        "name": "Book 47 Level C Kate's Truck.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%2047%20Level%20C%20Kate%27s%20Truck.MP3"
+      },
+      {
+        "name": "Book 48 Level C A visit to the city.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%2048%20Level%20C%20A%20visit%20to%20the%20city.MP3"
+      },
+      {
+        "name": "Book 49 Level C Pets.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%2049%20Level%20C%20Pets.MP3"
+      },
+      {
+        "name": "Book 50 Level D The very busy Hen.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%2050%20Level%20D%20The%20very%20busy%20Hen.MP3"
+      },
+      {
+        "name": "Book 51 Level D The Three pigs.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%2051%20Level%20D%20The%20Three%20pigs.MP3"
+      },
+      {
+        "name": "Book 52 Level D Up in a tree.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%2052%20Level%20D%20Up%20in%20a%20tree.MP3"
+      },
+      {
+        "name": "Book 53 Level D Time for Lunch.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%2053%20Level%20D%20Time%20for%20Lunch.MP3"
+      },
+      {
+        "name": "Book 54 Level D The good dog.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%2054%20Level%20D%20The%20good%20dog.MP3"
+      },
+      {
+        "name": "Book 55 Level D What AM I.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%2055%20Level%20D%20What%20AM%20I.MP3"
+      },
+      {
+        "name": "Book 56 Level D A Box.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%2056%20Level%20D%20A%20Box.MP3"
+      },
+      {
+        "name": "Book 57 Level D Books.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%2057%20Level%20D%20Books.MP3"
+      },
+      {
+        "name": "Book 58 Level D The Pool.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%2058%20Level%20D%20The%20Pool.MP3"
+      },
+      {
+        "name": "Book 59 Level D Farmer Dan's Ducks.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%2059%20Level%20D%20Farmer%20Dan%27s%20Ducks.MP3"
+      },
+      {
+        "name": "Book 6 Level A woof!.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%206%20Level%20A%20woof%21.MP3"
+      },
+      {
+        "name": "Book 60 Level D My Five Senses.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%2060%20Level%20D%20My%20Five%20Senses.MP3"
+      },
+      {
+        "name": "Book 61 Level E The three bears.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%2061%20Level%20E%20The%20three%20bears.MP3"
+      },
+      {
+        "name": "Book 62 Level E The Surprise.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%2062%20Level%20E%20The%20Surprise.MP3"
+      },
+      {
+        "name": "Book 63 Level E Talent Show.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%2063%20Level%20E%20Talent%20Show.MP3"
+      },
+      {
+        "name": "Book 64 Level E Baby Pictures.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%2064%20Level%20E%20Baby%20Pictures.MP3"
+      },
+      {
+        "name": "Book 65 Level E A walk with Meli.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%2065%20Level%20E%20A%20walk%20with%20Meli.MP3"
+      },
+      {
+        "name": "Book 67 Level E The Storm.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%2067%20Level%20E%20The%20Storm.MP3"
+      },
+      {
+        "name": "Book 68 Level E Lizzy.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%2068%20Level%20E%20Lizzy.MP3"
+      },
+      {
+        "name": "Book 69 Level E A Surprise for Mom.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%2069%20Level%20E%20A%20Surprise%20for%20Mom.MP3"
+      },
+      {
+        "name": "Book 7 Level A The Painter.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%207%20Level%20A%20The%20Painter.MP3"
+      },
+      {
+        "name": "Book 70 Level E Brave Taco.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%2070%20Level%20E%20Brave%20Taco.MP3"
+      },
+      {
+        "name": "Book 71 Level F Three Little Pigs and a big bad wolf.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%2071%20Level%20F%20Three%20Little%20Pigs%20and%20a%20big%20bad%20wolf.MP3"
+      },
+      {
+        "name": "Book 72 Level F The soccer game.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%2072%20Level%20F%20The%20soccer%20game.MP3"
+      },
+      {
+        "name": "Book 73 Level F Bunny and the monster.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%2073%20Level%20F%20Bunny%20and%20the%20monster.MP3"
+      },
+      {
+        "name": "Book 74 Level F Pictures of Hugs.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%2074%20Level%20F%20Pictures%20of%20Hugs.MP3"
+      },
+      {
+        "name": "Book 75 Level F The Big Storm.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%2075%20Level%20F%20The%20Big%20Storm.MP3"
+      },
+      {
+        "name": "Book 76 Level F The Tree House.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%2076%20Level%20F%20The%20Tree%20House.MP3"
+      },
+      {
+        "name": "Book 77 Level F out for Lunch.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%2077%20Level%20F%20out%20for%20Lunch.MP3"
+      },
+      {
+        "name": "Book 78 Level F Just wait and See.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%2078%20Level%20F%20Just%20wait%20and%20See.MP3"
+      },
+      {
+        "name": "Book 79 Level F All about Animal Babies.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%2079%20Level%20F%20All%20about%20Animal%20Babies.MP3"
+      },
+      {
+        "name": "Book 8 Level A Smells.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%208%20Level%20A%20Smells.MP3"
+      },
+      {
+        "name": "Book 80 Level F Grandma's Glasses.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%2080%20Level%20F%20Grandma%27s%20Glasses.MP3"
+      },
+      {
+        "name": "Book 81 Level G Goldie and the Three Bears.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%2081%20Level%20G%20Goldie%20and%20the%20Three%20Bears.MP3"
+      },
+      {
+        "name": "Book 82 Level G Papa's Birthday.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%2082%20Level%20G%20Papa%27s%20Birthday.MP3"
+      },
+      {
+        "name": "Book 83 Level G Baby bird.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%2083%20Level%20G%20Baby%20bird.MP3"
+      },
+      {
+        "name": "Book 84 Level G The Goat in the Garden.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%2084%20Level%20G%20The%20Goat%20in%20the%20Garden.MP3"
+      },
+      {
+        "name": "Book 85 Level G How Frogs Grow.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%2085%20Level%20G%20How%20Frogs%20Grow.MP3"
+      },
+      {
+        "name": "Book 86 level G Home Sweet Home.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%2086%20level%20G%20Home%20Sweet%20Home.MP3"
+      },
+      {
+        "name": "Book 87 Level G The Bossy Pig.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%2087%20Level%20G%20The%20Bossy%20Pig.MP3"
+      },
+      {
+        "name": "Book 88 Level G Best New Friends.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%2088%20Level%20G%20Best%20New%20Friends.MP3"
+      },
+      {
+        "name": "Book 89 Level G The Lucky Penny.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%2089%20Level%20G%20The%20Lucky%20Penny.MP3"
+      },
+      {
+        "name": "Book 9 Level A Jesse.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%209%20Level%20A%20Jesse.MP3"
+      },
+      {
+        "name": "Book 90 Level G A Walk at night.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%2090%20Level%20G%20A%20Walk%20at%20night.MP3"
+      },
+      {
+        "name": "Book 91 Level H The Skunk with No Stripes.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%2091%20Level%20H%20The%20Skunk%20with%20No%20Stripes.MP3"
+      },
+      {
+        "name": "Book 92 Level H The Gingerbread Man.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%2092%20Level%20H%20The%20Gingerbread%20Man.MP3"
+      },
+      {
+        "name": "Book 93 Level H Dinner for Maisy.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%2093%20Level%20H%20Dinner%20for%20Maisy.MP3"
+      },
+      {
+        "name": "Book 94 Level H In Winter.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%2094%20Level%20H%20In%20Winter.MP3"
+      },
+      {
+        "name": "Book 95 Level H The Gecko That came to school.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%2095%20Level%20H%20The%20Gecko%20That%20came%20to%20school.MP3"
+      },
+      {
+        "name": "Book 96 Level H Two Teams.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%2096%20Level%20H%20Two%20Teams.MP3"
+      },
+      {
+        "name": "Book 97 Level H The Cherries.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%2097%20Level%20H%20The%20Cherries.MP3"
+      },
+      {
+        "name": "Book 98 Level H All about Boats.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%2098%20Level%20H%20All%20about%20Boats.MP3"
+      },
+      {
+        "name": "Book 99 Level H All about Chimps.MP3",
+        "type": "file",
+        "path": "./G1%20%E9%9F%B3%E9%A2%91/Book%2099%20Level%20H%20All%20about%20Chimps.MP3"
+      }
+    ]
+  },
+  {
     "name": "G2",
     "type": "directory",
     "path": "./G2",
     "children": []
   },
   {
+    "name": "G2 音频",
+    "type": "directory",
+    "path": "./G2%20%E9%9F%B3%E9%A2%91",
+    "children": [
+      {
+        "name": "Book1-02-thing that fly.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book1-02-thing%20that%20fly.mp3"
+      },
+      {
+        "name": "Book10-07 All about penguins.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book10-07%20All%20about%20penguins.mp3"
+      },
+      {
+        "name": "Book100-93 Good friends.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book100-93%20Good%20friends.mp3"
+      },
+      {
+        "name": "Book101-95 Jack and the Beanstalk.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book101-95%20Jack%20and%20the%20Beanstalk.mp3"
+      },
+      {
+        "name": "Book102-97 Little cat,big cat.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book102-97%20Little%20cat%2Cbig%20cat.mp3"
+      },
+      {
+        "name": "Book103-99 A surprise for the big bad wolf.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book103-99%20A%20surprise%20for%20the%20big%20bad%20wolf.mp3"
+      },
+      {
+        "name": "Book104-112 Moosling the hero.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book104-112%20Moosling%20the%20hero.mp3"
+      },
+      {
+        "name": "Book105-114 Too many teeth.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book105-114%20Too%20many%20teeth.mp3"
+      },
+      {
+        "name": "Book106-116 Libby's new friend.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book106-116%20Libby%27s%20new%20friend.mp3"
+      },
+      {
+        "name": "Book107-118 The pirates.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book107-118%20The%20pirates.mp3"
+      },
+      {
+        "name": "Book108-120 Animals with wings.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book108-120%20Animals%20with%20wings.mp3"
+      },
+      {
+        "name": "Book109-101 The costume party.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book109-101%20The%20costume%20party.mp3"
+      },
+      {
+        "name": "Book11-09 Big Lizard,little Lizard.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book11-09%20Big%20Lizard%2Clittle%20Lizard.mp3"
+      },
+      {
+        "name": "Book110-103 The roadrunners.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book110-103%20The%20roadrunners.mp3"
+      },
+      {
+        "name": "Book111-105 Venus the flytrap who wouldn't eat flies.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book111-105%20Venus%20the%20flytrap%20who%20wouldn%27t%20eat%20flies.mp3"
+      },
+      {
+        "name": "Book112-107 The Fox and the Gulls.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book112-107%20The%20Fox%20and%20the%20Gulls.mp3"
+      },
+      {
+        "name": "Book113-109 A dragon's lullaby.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book113-109%20A%20dragon%27s%20lullaby.mp3"
+      },
+      {
+        "name": "Book114-111 The hot day.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book114-111%20The%20hot%20day.mp3"
+      },
+      {
+        "name": "Book115-113 All about astronauts.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book115-113%20All%20about%20astronauts.mp3"
+      },
+      {
+        "name": "Book116-115 All about volcanoes.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book116-115%20All%20about%20volcanoes.mp3"
+      },
+      {
+        "name": "Book117-117 Eugenie clark,shark lady.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book117-117%20Eugenie%20clark%2Cshark%20lady.mp3"
+      },
+      {
+        "name": "Book118-119 Chester greenwood's big idea.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book118-119%20Chester%20greenwood%27s%20big%20idea.mp3"
+      },
+      {
+        "name": "Book13-18 Pinky the pig.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book13-18%20Pinky%20the%20pig.mp3"
+      },
+      {
+        "name": "Book14-20 In my room.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book14-20%20In%20my%20room.mp3"
+      },
+      {
+        "name": "Book15-22 Fishing.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book15-22%20Fishing.mp3"
+      },
+      {
+        "name": "Book16-24 The fish tank.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book16-24%20The%20fish%20tank.mp3"
+      },
+      {
+        "name": "Book17-26 Kittens.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book17-26%20Kittens.mp3"
+      },
+      {
+        "name": "Book18-28 The big city.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book18-28%20The%20big%20city.mp3"
+      },
+      {
+        "name": "Book19-30 All about snakes.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book19-30%20All%20about%20snakes.mp3"
+      },
+      {
+        "name": "Book2-04 the tide pool.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book2-04%20the%20tide%20pool.mp3"
+      },
+      {
+        "name": "Book20-11 The drip.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book20-11%20The%20drip.mp3"
+      },
+      {
+        "name": "Book22-15 A picnic in the rain.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book22-15%20A%20picnic%20in%20the%20rain.mp3"
+      },
+      {
+        "name": "Book23-17 A surprise for roxy.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book23-17%20A%20surprise%20for%20roxy.mp3"
+      },
+      {
+        "name": "Book24-19 Night workers.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book24-19%20Night%20workers.mp3"
+      },
+      {
+        "name": "Book25-32 Tails.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book25-32%20Tails.mp3"
+      },
+      {
+        "name": "Book26-34 Billy's pen.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book26-34%20Billy%27s%20pen.mp3"
+      },
+      {
+        "name": "Book29-40 The birthday song.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book29-40%20The%20birthday%20song.mp3"
+      },
+      {
+        "name": "Book3-06 down the path.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book3-06%20down%20the%20path.mp3"
+      },
+      {
+        "name": "Book30-21 chicken little.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book30-21%20chicken%20little.mp3"
+      },
+      {
+        "name": "Book31-23 Meli at the pet shop.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book31-23%20Meli%20at%20the%20pet%20shop.mp3"
+      },
+      {
+        "name": "Book32-25 Meli at the vet.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book32-25%20Meli%20at%20the%20vet.mp3"
+      },
+      {
+        "name": "Book33-27 Little bat.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book33-27%20Little%20bat.mp3"
+      },
+      {
+        "name": "Book36-46 The hug.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book36-46%20The%20hug.mp3"
+      },
+      {
+        "name": "Book37-48 Ants on a log.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book37-48%20Ants%20on%20a%20log.mp3"
+      },
+      {
+        "name": "Book38-50 The broken clock.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book38-50%20The%20broken%20clock.mp3"
+      },
+      {
+        "name": "Book39-31 All about sharks.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book39-31%20All%20about%20sharks.mp3"
+      },
+      {
+        "name": "Book4-10 Going to school.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book4-10%20Going%20to%20school.mp3"
+      },
+      {
+        "name": "Book40-33 A fast fox.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book40-33%20A%20fast%20fox.mp3"
+      },
+      {
+        "name": "Book41-35 The muddy mess.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book41-35%20The%20muddy%20mess.mp3"
+      },
+      {
+        "name": "Book42-37 Taking care of Meli.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book42-37%20Taking%20care%20of%20Meli.mp3"
+      },
+      {
+        "name": "Book43-39 Mother sea turtle.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book43-39%20Mother%20sea%20turtle.mp3"
+      },
+      {
+        "name": "Book44-52 Down by the pond.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book44-52%20Down%20by%20the%20pond.mp3"
+      },
+      {
+        "name": "Book45-54 Pop,pop,popcorn!.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book45-54%20Pop%2Cpop%2Cpopcorn%21.mp3"
+      },
+      {
+        "name": "Book46-56 Going camping.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book46-56%20Going%20camping.mp3"
+      },
+      {
+        "name": "Book47-58 Little wolf's new home.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book47-58%20Little%20wolf%27s%20new%20home.mp3"
+      },
+      {
+        "name": "Book48-60 All about bugs.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book48-60%20All%20about%20bugs.mp3"
+      },
+      {
+        "name": "Book49-41 Meli at school.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book49-41%20Meli%20at%20school.mp3"
+      },
+      {
+        "name": "Book5-12 at the fair.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book5-12%20at%20the%20fair.mp3"
+      },
+      {
+        "name": "Book50-43 Supper fox.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book50-43%20Supper%20fox.mp3"
+      },
+      {
+        "name": "Book51-47 At the beach.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book51-47%20At%20the%20beach.mp3"
+      },
+      {
+        "name": "Book52-45 Moosling the babysitter.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book52-45%20Moosling%20the%20babysitter.mp3"
+      },
+      {
+        "name": "Book53-49 Fighting fires.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book53-49%20Fighting%20fires.mp3"
+      },
+      {
+        "name": "Book54-62 The perfect picnic.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book54-62%20The%20perfect%20picnic.mp3"
+      },
+      {
+        "name": "Book55-64 A party for panda.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book55-64%20A%20party%20for%20panda.mp3"
+      },
+      {
+        "name": "Book56-66 The new roof.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book56-66%20The%20new%20roof.mp3"
+      },
+      {
+        "name": "Book57-68 Kim's new shoes.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book57-68%20Kim%27s%20new%20shoes.mp3"
+      },
+      {
+        "name": "Book58-70 The play date.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book58-70%20The%20play%20date.mp3"
+      },
+      {
+        "name": "Book59-51 the great big enormous turnip.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book59-51%20the%20great%20big%20enormous%20turnip.mp3"
+      },
+      {
+        "name": "Book60-53 All about sled dogs.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book60-53%20All%20about%20sled%20dogs.mp3"
+      },
+      {
+        "name": "Book61-55 The fun club goes to a dairy farm.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book61-55%20The%20fun%20club%20goes%20to%20a%20dairy%20farm.mp3"
+      },
+      {
+        "name": "Book62-57 the coyote and the rabbit.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book62-57%20the%20coyote%20and%20the%20rabbit.mp3"
+      },
+      {
+        "name": "Book63-59 Plants that eat bugs.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book63-59%20Plants%20that%20eat%20bugs.mp3"
+      },
+      {
+        "name": "Book64-72 Footprints.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book64-72%20Footprints.mp3"
+      },
+      {
+        "name": "Book65-74 All about spiders.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book65-74%20All%20about%20spiders.mp3"
+      },
+      {
+        "name": "Book66-76 Wide awake!.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book66-76%20Wide%20awake%21.mp3"
+      },
+      {
+        "name": "Book67-78 The bird feeders.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book67-78%20The%20bird%20feeders.mp3"
+      },
+      {
+        "name": "Book68-80 The boss.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book68-80%20The%20boss.mp3"
+      },
+      {
+        "name": "Book69-61 Road builders.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book69-61%20Road%20builders.mp3"
+      },
+      {
+        "name": "Book7-01 The Little Red Hen.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book7-01%20The%20Little%20Red%20Hen.mp3"
+      },
+      {
+        "name": "Book70-63 All about dinosaurs.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book70-63%20All%20about%20dinosaurs.mp3"
+      },
+      {
+        "name": "Book71-65 The fun club goes to the post office.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book71-65%20The%20fun%20club%20goes%20to%20the%20post%20office.mp3"
+      },
+      {
+        "name": "Book72-67 The fun club goes to the vet clinic.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book72-67%20The%20fun%20club%20goes%20to%20the%20vet%20clinic.mp3"
+      },
+      {
+        "name": "Book73-69 the wind and the sun.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book73-69%20the%20wind%20and%20the%20sun.mp3"
+      },
+      {
+        "name": "Book74-82 The singing duck.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book74-82%20The%20singing%20duck.mp3"
+      },
+      {
+        "name": "Book75-84 The wise blackbird.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book75-84%20The%20wise%20blackbird.mp3"
+      },
+      {
+        "name": "Book76-86 All about redwood trees.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book76-86%20All%20about%20redwood%20trees.mp3"
+      },
+      {
+        "name": "Book77-88 Cranes.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book77-88%20Cranes.mp3"
+      },
+      {
+        "name": "Book78-90 Old jacket,new jacket.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book78-90%20Old%20jacket%2Cnew%20jacket.mp3"
+      },
+      {
+        "name": "Book79-71 The problem with Meli.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book79-71%20The%20problem%20with%20Meli.mp3"
+      },
+      {
+        "name": "Book8-03 The sea.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book8-03%20The%20sea.mp3"
+      },
+      {
+        "name": "Book81-75 The hare and the tortoise.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book81-75%20The%20hare%20and%20the%20tortoise.mp3"
+      },
+      {
+        "name": "Book82-77 All about the sonoran desert.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book82-77%20All%20about%20the%20sonoran%20desert.mp3"
+      },
+      {
+        "name": "Book83-79 The Ugly Duckling.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book83-79%20The%20Ugly%20Duckling.mp3"
+      },
+      {
+        "name": "Book84-92 Frog songs.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book84-92%20Frog%20songs.mp3"
+      },
+      {
+        "name": "Book85-94 Elephant and tiger.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book85-94%20Elephant%20and%20tiger.mp3"
+      },
+      {
+        "name": "Book86-96 Hide and seek.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book86-96%20Hide%20and%20seek.mp3"
+      },
+      {
+        "name": "Book87-98 Into the sea.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book87-98%20Into%20the%20sea.mp3"
+      },
+      {
+        "name": "Book88-100 The ladybug and the cricket.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book88-100%20The%20ladybug%20and%20the%20cricket.mp3"
+      },
+      {
+        "name": "Book89-81 All about robots.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book89-81%20All%20about%20robots.mp3"
+      },
+      {
+        "name": "Book9-05 Down the river.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book9-05%20Down%20the%20river.mp3"
+      },
+      {
+        "name": "Book90-83 How Bear Lost Its Tail.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book90-83%20How%20Bear%20Lost%20Its%20Tail.mp3"
+      },
+      {
+        "name": "Book91-85 All about African Elephants.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book91-85%20All%20about%20African%20Elephants.mp3"
+      },
+      {
+        "name": "Book92-87 The City Mouse and the Country Mouse.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book92-87%20The%20City%20Mouse%20and%20the%20Country%20Mouse.mp3"
+      },
+      {
+        "name": "Book93-89 the fun club goes to the aquarium.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book93-89%20the%20fun%20club%20goes%20to%20the%20aquarium.mp3"
+      },
+      {
+        "name": "Book94-102 moosling in winter.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book94-102%20moosling%20in%20winter.mp3"
+      },
+      {
+        "name": "Book95-104 march to the park.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book95-104%20march%20to%20the%20park.mp3"
+      },
+      {
+        "name": "Book96-106 pen pals.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book96-106%20pen%20pals.mp3"
+      },
+      {
+        "name": "Book97-108 puddle play.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book97-108%20puddle%20play.mp3"
+      },
+      {
+        "name": "Book98-110 the scream.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book98-110%20the%20scream.mp3"
+      },
+      {
+        "name": "Book99-91 From milk to ice cream.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/Book99-91%20From%20milk%20to%20ice%20cream.mp3"
+      },
+      {
+        "name": "book34-29 The trip.mp3",
+        "type": "file",
+        "path": "./G2%20%E9%9F%B3%E9%A2%91/book34-29%20The%20trip.mp3"
+      }
+    ]
+  },
+  {
     "name": "GK",
     "type": "directory",
     "path": "./GK",
     "children": []
+  },
+  {
+    "name": "GK 音频",
+    "type": "directory",
+    "path": "./GK%20%E9%9F%B3%E9%A2%91",
+    "children": [
+      {
+        "name": "Book 1-Level A At the Market.mp3",
+        "type": "file",
+        "path": "./GK%20%E9%9F%B3%E9%A2%91/Book%201-Level%20A%20At%20the%20Market.mp3"
+      },
+      {
+        "name": "Book 10-Level A I Can Read.mp3",
+        "type": "file",
+        "path": "./GK%20%E9%9F%B3%E9%A2%91/Book%2010-Level%20A%20I%20Can%20Read.mp3"
+      },
+      {
+        "name": "Book 11-Level A Baby.mp3",
+        "type": "file",
+        "path": "./GK%20%E9%9F%B3%E9%A2%91/Book%2011-Level%20A%20Baby.mp3"
+      },
+      {
+        "name": "Book 12-Level A Palying Dress Up.mp3",
+        "type": "file",
+        "path": "./GK%20%E9%9F%B3%E9%A2%91/Book%2012-Level%20A%20Palying%20Dress%20Up.mp3"
+      },
+      {
+        "name": "Book 13-Level A Little Cub.mp3",
+        "type": "file",
+        "path": "./GK%20%E9%9F%B3%E9%A2%91/Book%2013-Level%20A%20Little%20Cub.mp3"
+      },
+      {
+        "name": "Book 15-Level A The Baby.mp3",
+        "type": "file",
+        "path": "./GK%20%E9%9F%B3%E9%A2%91/Book%2015-Level%20A%20The%20Baby.mp3"
+      },
+      {
+        "name": "Book 16-Level A Going Sledding.mp3",
+        "type": "file",
+        "path": "./GK%20%E9%9F%B3%E9%A2%91/Book%2016-Level%20A%20Going%20Sledding.mp3"
+      },
+      {
+        "name": "Book 17-Level A Making a Snowman.mp3",
+        "type": "file",
+        "path": "./GK%20%E9%9F%B3%E9%A2%91/Book%2017-Level%20A%20Making%20a%20Snowman.mp3"
+      },
+      {
+        "name": "Book 18-Level A My Lunch.mp3",
+        "type": "file",
+        "path": "./GK%20%E9%9F%B3%E9%A2%91/Book%2018-Level%20A%20My%20Lunch.mp3"
+      },
+      {
+        "name": "Book 19-Level A Toys.mp3",
+        "type": "file",
+        "path": "./GK%20%E9%9F%B3%E9%A2%91/Book%2019-Level%20A%20Toys.mp3"
+      },
+      {
+        "name": "Book 2-Level A Rex.mp3",
+        "type": "file",
+        "path": "./GK%20%E9%9F%B3%E9%A2%91/Book%202-Level%20A%20Rex.mp3"
+      },
+      {
+        "name": "Book 20-Level A Little Things.mp3",
+        "type": "file",
+        "path": "./GK%20%E9%9F%B3%E9%A2%91/Book%2020-Level%20A%20Little%20Things.mp3"
+      },
+      {
+        "name": "Book 21-Level A Packing My Bag.mp3",
+        "type": "file",
+        "path": "./GK%20%E9%9F%B3%E9%A2%91/Book%2021-Level%20A%20Packing%20My%20Bag.mp3"
+      },
+      {
+        "name": "Book 22-Level A Setting the Table.mp3",
+        "type": "file",
+        "path": "./GK%20%E9%9F%B3%E9%A2%91/Book%2022-Level%20A%20Setting%20the%20Table.mp3"
+      },
+      {
+        "name": "Book 23-Level A The Flower.mp3",
+        "type": "file",
+        "path": "./GK%20%E9%9F%B3%E9%A2%91/Book%2023-Level%20A%20The%20Flower.mp3"
+      },
+      {
+        "name": "Book 24-Level A Polly.mp3",
+        "type": "file",
+        "path": "./GK%20%E9%9F%B3%E9%A2%91/Book%2024-Level%20A%20Polly.mp3"
+      },
+      {
+        "name": "Book 25-Level A The Sidewalk.mp3",
+        "type": "file",
+        "path": "./GK%20%E9%9F%B3%E9%A2%91/Book%2025-Level%20A%20The%20Sidewalk.mp3"
+      },
+      {
+        "name": "Book 26-Level A The Pet Store.mp3",
+        "type": "file",
+        "path": "./GK%20%E9%9F%B3%E9%A2%91/Book%2026-Level%20A%20The%20Pet%20Store.mp3"
+      },
+      {
+        "name": "Book 28-Level A Wheels.mp3",
+        "type": "file",
+        "path": "./GK%20%E9%9F%B3%E9%A2%91/Book%2028-Level%20A%20Wheels.mp3"
+      },
+      {
+        "name": "Book 29-Level A The Show.mp3",
+        "type": "file",
+        "path": "./GK%20%E9%9F%B3%E9%A2%91/Book%2029-Level%20A%20The%20Show.mp3"
+      },
+      {
+        "name": "Book 30-Level A The Puppet Show.mp3",
+        "type": "file",
+        "path": "./GK%20%E9%9F%B3%E9%A2%91/Book%2030-Level%20A%20The%20Puppet%20Show.mp3"
+      },
+      {
+        "name": "Book 31-Level A My Baby Sister.mp3",
+        "type": "file",
+        "path": "./GK%20%E9%9F%B3%E9%A2%91/Book%2031-Level%20A%20My%20Baby%20Sister.mp3"
+      },
+      {
+        "name": "Book 32-Level A The Parade.mp3",
+        "type": "file",
+        "path": "./GK%20%E9%9F%B3%E9%A2%91/Book%2032-Level%20A%20The%20Parade.mp3"
+      },
+      {
+        "name": "Book 33-Level A At School.mp3",
+        "type": "file",
+        "path": "./GK%20%E9%9F%B3%E9%A2%91/Book%2033-Level%20A%20At%20School.mp3"
+      },
+      {
+        "name": "Book 34-Level A My Bear.mp3",
+        "type": "file",
+        "path": "./GK%20%E9%9F%B3%E9%A2%91/Book%2034-Level%20A%20My%20Bear.mp3"
+      },
+      {
+        "name": "Book 35-Level A Getting Ready.mp3",
+        "type": "file",
+        "path": "./GK%20%E9%9F%B3%E9%A2%91/Book%2035-Level%20A%20Getting%20Ready.mp3"
+      },
+      {
+        "name": "Book 36-Level A The Play.mp3",
+        "type": "file",
+        "path": "./GK%20%E9%9F%B3%E9%A2%91/Book%2036-Level%20A%20The%20Play.mp3"
+      },
+      {
+        "name": "Book 37-Level A Painting.mp3",
+        "type": "file",
+        "path": "./GK%20%E9%9F%B3%E9%A2%91/Book%2037-Level%20A%20Painting.mp3"
+      },
+      {
+        "name": "Book 38-Level A Making a Pizza.mp3",
+        "type": "file",
+        "path": "./GK%20%E9%9F%B3%E9%A2%91/Book%2038-Level%20A%20Making%20a%20Pizza.mp3"
+      },
+      {
+        "name": "Book 39-Level A Baking.mp3",
+        "type": "file",
+        "path": "./GK%20%E9%9F%B3%E9%A2%91/Book%2039-Level%20A%20Baking.mp3"
+      },
+      {
+        "name": "Book 4-Level A Mom.mp3",
+        "type": "file",
+        "path": "./GK%20%E9%9F%B3%E9%A2%91/Book%204-Level%20A%20Mom.mp3"
+      },
+      {
+        "name": "Book 40-Level A Birds.mp3",
+        "type": "file",
+        "path": "./GK%20%E9%9F%B3%E9%A2%91/Book%2040-Level%20A%20Birds.mp3"
+      },
+      {
+        "name": "Book 41-Level A Spots.mp3",
+        "type": "file",
+        "path": "./GK%20%E9%9F%B3%E9%A2%91/Book%2041-Level%20A%20Spots.mp3"
+      },
+      {
+        "name": "Book 43-Level A Drawing.mp3",
+        "type": "file",
+        "path": "./GK%20%E9%9F%B3%E9%A2%91/Book%2043-Level%20A%20Drawing.mp3"
+      },
+      {
+        "name": "Book 44-Level B The Baby Animals.mp3",
+        "type": "file",
+        "path": "./GK%20%E9%9F%B3%E9%A2%91/Book%2044-Level%20B%20The%20Baby%20Animals.mp3"
+      },
+      {
+        "name": "Book 45-Level B Over the River.mp3",
+        "type": "file",
+        "path": "./GK%20%E9%9F%B3%E9%A2%91/Book%2045-Level%20B%20Over%20the%20River.mp3"
+      },
+      {
+        "name": "Book 46-Level B My Big Bear.mp3",
+        "type": "file",
+        "path": "./GK%20%E9%9F%B3%E9%A2%91/Book%2046-Level%20B%20My%20Big%20Bear.mp3"
+      },
+      {
+        "name": "Book 49-Level B Playing Together.mp3",
+        "type": "file",
+        "path": "./GK%20%E9%9F%B3%E9%A2%91/Book%2049-Level%20B%20Playing%20Together.mp3"
+      },
+      {
+        "name": "Book 5-Level A Dad.mp3",
+        "type": "file",
+        "path": "./GK%20%E9%9F%B3%E9%A2%91/Book%205-Level%20A%20Dad.mp3"
+      },
+      {
+        "name": "Book 50-Level B At the Farm.mp3",
+        "type": "file",
+        "path": "./GK%20%E9%9F%B3%E9%A2%91/Book%2050-Level%20B%20At%20the%20Farm.mp3"
+      },
+      {
+        "name": "Book 51-Level B The Hat.mp3",
+        "type": "file",
+        "path": "./GK%20%E9%9F%B3%E9%A2%91/Book%2051-Level%20B%20The%20Hat.mp3"
+      },
+      {
+        "name": "Book 52-Level B Going on a Vacation.mp3",
+        "type": "file",
+        "path": "./GK%20%E9%9F%B3%E9%A2%91/Book%2052-Level%20B%20Going%20on%20a%20Vacation.mp3"
+      },
+      {
+        "name": "Book 53-Level B Hiding.mp3",
+        "type": "file",
+        "path": "./GK%20%E9%9F%B3%E9%A2%91/Book%2053-Level%20B%20Hiding.mp3"
+      },
+      {
+        "name": "Book 54-Level B Hop Hop Hop.mp3",
+        "type": "file",
+        "path": "./GK%20%E9%9F%B3%E9%A2%91/Book%2054-Level%20B%20Hop%20Hop%20Hop.mp3"
+      },
+      {
+        "name": "Book 55-Level B Rain.mp3",
+        "type": "file",
+        "path": "./GK%20%E9%9F%B3%E9%A2%91/Book%2055-Level%20B%20Rain.mp3"
+      },
+      {
+        "name": "Book 56-Level B So Big.mp3",
+        "type": "file",
+        "path": "./GK%20%E9%9F%B3%E9%A2%91/Book%2056-Level%20B%20So%20Big.mp3"
+      },
+      {
+        "name": "Book 57-Level B Fun At School.mp3",
+        "type": "file",
+        "path": "./GK%20%E9%9F%B3%E9%A2%91/Book%2057-Level%20B%20Fun%20At%20School.mp3"
+      },
+      {
+        "name": "Book 58-Level B My Big Brother.mp3",
+        "type": "file",
+        "path": "./GK%20%E9%9F%B3%E9%A2%91/Book%2058-Level%20B%20My%20Big%20Brother.mp3"
+      },
+      {
+        "name": "Book 59-Level C Mouse.mp3",
+        "type": "file",
+        "path": "./GK%20%E9%9F%B3%E9%A2%91/Book%2059-Level%20C%20Mouse.mp3"
+      },
+      {
+        "name": "Book 6-Level A At the Zoo.mp3",
+        "type": "file",
+        "path": "./GK%20%E9%9F%B3%E9%A2%91/Book%206-Level%20A%20At%20the%20Zoo.mp3"
+      },
+      {
+        "name": "Book 60-Level C Mop.mp3",
+        "type": "file",
+        "path": "./GK%20%E9%9F%B3%E9%A2%91/Book%2060-Level%20C%20Mop.mp3"
+      },
+      {
+        "name": "Book 61-Level C Play and Ride.mp3",
+        "type": "file",
+        "path": "./GK%20%E9%9F%B3%E9%A2%91/Book%2061-Level%20C%20Play%20and%20Ride.mp3"
+      },
+      {
+        "name": "Book 62-Level C What is Very Long.mp3",
+        "type": "file",
+        "path": "./GK%20%E9%9F%B3%E9%A2%91/Book%2062-Level%20C%20What%20is%20Very%20Long.mp3"
+      },
+      {
+        "name": "Book 63-Level C Our Pets.mp3",
+        "type": "file",
+        "path": "./GK%20%E9%9F%B3%E9%A2%91/Book%2063-Level%20C%20Our%20Pets.mp3"
+      },
+      {
+        "name": "Book 64-Level C A Visit From Aunt Bee.mp3",
+        "type": "file",
+        "path": "./GK%20%E9%9F%B3%E9%A2%91/Book%2064-Level%20C%20A%20Visit%20From%20Aunt%20Bee.mp3"
+      },
+      {
+        "name": "Book 65-Level C Flap Flap Fly.mp3",
+        "type": "file",
+        "path": "./GK%20%E9%9F%B3%E9%A2%91/Book%2065-Level%20C%20Flap%20Flap%20Fly.mp3"
+      },
+      {
+        "name": "Book 66-Level C Going on a Train Ride.mp3",
+        "type": "file",
+        "path": "./GK%20%E9%9F%B3%E9%A2%91/Book%2066-Level%20C%20Going%20on%20a%20Train%20Ride.mp3"
+      },
+      {
+        "name": "Book 67-Level C Playing with Blocks.mp3",
+        "type": "file",
+        "path": "./GK%20%E9%9F%B3%E9%A2%91/Book%2067-Level%20C%20Playing%20with%20Blocks.mp3"
+      },
+      {
+        "name": "Book 69-Level C Out to Play.mp3",
+        "type": "file",
+        "path": "./GK%20%E9%9F%B3%E9%A2%91/Book%2069-Level%20C%20Out%20to%20Play.mp3"
+      },
+      {
+        "name": "Book 7-Level B Making Soup.mp3",
+        "type": "file",
+        "path": "./GK%20%E9%9F%B3%E9%A2%91/Book%207-Level%20B%20Making%20Soup.mp3"
+      },
+      {
+        "name": "Book 70-Level C Animals That go Fast.mp3",
+        "type": "file",
+        "path": "./GK%20%E9%9F%B3%E9%A2%91/Book%2070-Level%20C%20Animals%20That%20go%20Fast.mp3"
+      },
+      {
+        "name": "Book 8-Level A The Park.mp3",
+        "type": "file",
+        "path": "./GK%20%E9%9F%B3%E9%A2%91/Book%208-Level%20A%20The%20Park.mp3"
+      }
+    ]
   },
   {
     "name": "测试",
