@@ -76,22 +76,37 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Play a file
     function playFile(fileItem) {
-        trackNameDisplay.textContent = fileItem.name;
+        trackNameDisplay.textContent = `加载中... ${fileItem.name}`;
 
         const selectedSource = sourceSelect.value;
         const baseUrl = SOURCES[selectedSource];
 
+        let url;
         // Handle case where path might already be absolute (legacy support or safety)
         if (fileItem.path.startsWith('http')) {
-             audioPlayer.src = fileItem.path;
+             url = fileItem.path;
         } else {
-             audioPlayer.src = `${baseUrl}/${fileItem.path}`;
+             url = `${baseUrl}/${fileItem.path}`;
         }
 
-        audioPlayer.play();
+        // Setup event listeners for loading state
+        audioPlayer.oncanplay = () => {
+            trackNameDisplay.textContent = fileItem.name;
+            document.title = `▶ ${fileItem.name}`;
+            audioPlayer.oncanplay = null; // Clean up
+        };
 
-        // Update document title
-        document.title = `▶ ${fileItem.name}`;
+        audioPlayer.onerror = () => {
+            trackNameDisplay.textContent = `加载失败: ${fileItem.name}`;
+            alert(`加载失败，请检查网络或切换音源。\n(File: ${fileItem.name})`);
+            audioPlayer.onerror = null; // Clean up
+        };
+
+        audioPlayer.src = url;
+
+        audioPlayer.play().catch(e => {
+            console.error('Play failed:', e);
+        });
     }
 
     // Search functionality
