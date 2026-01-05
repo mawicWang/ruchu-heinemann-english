@@ -5,7 +5,6 @@ import sys
 import argparse
 
 AUDIO_EXTENSIONS = {'.mp3', '.wav', '.ogg', '.m4a'}
-R2_BASE_URL = 'https://pub-bf941e18a2b946d588e85e7141c87b2c.r2.dev'
 PLAYLIST_FILE = 'playlist.json'
 
 def scan_directory(path):
@@ -41,14 +40,13 @@ def scan_directory(path):
         elif os.path.isfile(full_path):
             ext = os.path.splitext(item)[1].lower()
             if ext in AUDIO_EXTENSIONS:
-                # Construct R2 URL
+                # Construct relative URL path
                 url_path = urllib.parse.quote(clean_path)
-                full_url = f"{R2_BASE_URL}/{url_path}"
 
                 entries.append({
                     "name": item,
                     "type": "file",
-                    "path": full_url
+                    "path": url_path
                 })
 
     return entries
