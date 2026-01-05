@@ -3,6 +3,12 @@ document.addEventListener('DOMContentLoaded', () => {
     const searchInput = document.getElementById('search-input');
     const audioPlayer = document.getElementById('audio-player');
     const trackNameDisplay = document.getElementById('track-name');
+    const sourceSelect = document.getElementById('source-select');
+
+    const SOURCES = {
+        'qiniu': 'http://t8d9rg9ev.hd-bkt.clouddn.com',
+        'r2': 'https://pub-bf941e18a2b946d588e85e7141c87b2c.r2.dev'
+    };
 
     let allFiles = []; // To store the full tree for search/reset
 
@@ -70,7 +76,17 @@ document.addEventListener('DOMContentLoaded', () => {
     // Play a file
     function playFile(fileItem) {
         trackNameDisplay.textContent = fileItem.name;
-        audioPlayer.src = fileItem.path;
+
+        const selectedSource = sourceSelect.value;
+        const baseUrl = SOURCES[selectedSource];
+
+        // Handle case where path might already be absolute (legacy support or safety)
+        if (fileItem.path.startsWith('http')) {
+             audioPlayer.src = fileItem.path;
+        } else {
+             audioPlayer.src = `${baseUrl}/${fileItem.path}`;
+        }
+
         audioPlayer.play();
 
         // Update document title
