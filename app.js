@@ -7,7 +7,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const SOURCES = {
         'qiniu': 'http://t8d9rg9ev.hd-bkt.clouddn.com',
-        'r2': 'https://pub-bf941e18a2b946d588e85e7141c87b2c.r2.dev'
+        'r2': 'https://pub-bf941e18a2b946d588e85e7141c87b2c.r2.dev',
+        'aliyun': 'https://ruchu-heinemann-english-2.oss-cn-hongkong.aliyuncs.com'
     };
 
     let allFiles = []; // To store the full tree for search/reset
